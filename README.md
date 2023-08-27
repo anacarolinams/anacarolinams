@@ -18,7 +18,7 @@ I'm always looking for opportunities to collaborate, learn and grow in this dyna
 
 ## 📱 **Me conheça pelas minhas outras redes/Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&logoColor=9400d3)](https://www.linkedin.com/in/anacsmedeiros/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=9400d3)](https://www.discord.com/in/anacsouza#8371/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9400d3)](https://www.instagram.com/anac.msouza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9400d3)](https://www.linkedin.com/in/anacsmedeiros/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=9400d3)](https://www.discord.com/in/anacsouza#8371/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9400d3)](https://www.instagram.com/anac.msouza/)
 
 ## 📖 **Aprendendo sobre/Learning about:**
 
