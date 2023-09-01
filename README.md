@@ -10,7 +10,7 @@ Estou sempre em busca de oportunidades para colaborar, aprender e crescer neste 
 
 :large_blue_circle:	:us:
 
-I'm a civil engineer with a passion for challenges and problem-solving, who is taking his career in a new direction. Not identifying with my field, I flew away from the nest and fell without a parachute into the world of technology and programming!
+I'm a civil engineer with a passion for challenges and problem-solving, who is taking his career in a new direction. Not identifying with my area, I flew away from the nest and fell without a parachute into the world of technology and programming!
 
 At 28, I'm in an exciting transition phase, trying to combine my passion for innovation with the technical skills I'm acquiring. I'm currently focused on learning Java, JavaScript, Angular, HTML and CSS, exploring the endless possibilities that programming offers.
 
