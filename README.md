@@ -14,7 +14,7 @@ I'm a civil engineer with a passion for challenges and problem-solving, who is t
 
 At 28, I'm in an exciting transition phase, trying to combine my passion for innovation with the technical skills I'm acquiring. I'm currently focused on learning Java, JavaScript, Angular, HTML and CSS, exploring the endless possibilities that programming offers.
 
-I'm always looking for opportunities to collaborate, learn and grow in this dynamic technological environment. If you're interested in networking, sharing experiences or exploring possible collaborations, don't hesitate to get in touch. Let's build an innovative and inspiring future together!
+I'm always looking for opportunities to collaborate, learn and grow in this dynamic technological environment. If you're interested in networking, sharing experiences or exploring possible collaborations, don't hesitate to get in touch. Let's build an innovative and inspiring future!
 
 ## 📱 **Me conheça pelas minhas outras redes/Connect with me:**
 
